@@ -1,4 +1,4 @@
 # Hello-World
-just another repository
+Fisrt repository
 
-Hi there !
+In this repository i'll upload my beginner projects. 
